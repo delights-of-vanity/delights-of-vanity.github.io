@@ -1,7 +1,7 @@
 ---
 title: از غبار بپرس
 categories: [Novel,Fiction]
-tags: [united states,novel,fiction]
+tags: [united states,novel,fiction,los angeles]
 ---
 
 <style type="text/css"> @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } p { font-family: Roya; direction: rtl; font-size:24px; } </style> 
