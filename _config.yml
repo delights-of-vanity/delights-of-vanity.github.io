@@ -20,7 +20,7 @@ timezone:
 
 title: Delights of Vanity # the main title
 
-tagline: Short versions of my favourite stories # it will display as the sub-title
+tagline: جمع آوری لحظات کتاب خوانی ام # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Short versions of my favourite stories
@@ -41,7 +41,7 @@ social:
   email: rostamiev@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/arostami0164 # change to your twitter homepage
     - https://github.com/rostam # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
