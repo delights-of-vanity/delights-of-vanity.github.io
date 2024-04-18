@@ -1,7 +1,7 @@
 ---
 title: پاسخ‌های کوتاه به پرسش‌های بزرگ
-categories: [Novel,Fiction]
-tags: [novel,german,fiction,clown]
+categories: [Novel,Nonfiction]
+tags: [biography,science,existence]
 ---
 
 <style type="text/css"> @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } p { font-family: Roya; direction: rtl; font-size:24px; } </style> 
