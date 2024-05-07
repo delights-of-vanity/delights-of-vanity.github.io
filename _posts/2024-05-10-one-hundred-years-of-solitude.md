@@ -14,3 +14,6 @@ tags: [comedy,fiction,swedish]
 خوزه آرکادیو بوندیا دهکده ای به اسم ماکوندو بنانهاده بود. 
 در جنوب مرداب پهناوری بود.
 
+![One hundred years of solitude (infography)](sad_sal_tanhaei1.jpg)
+![One hundred years of solitude (infography)](sad_sal_tanhaei2.jpg)
+
