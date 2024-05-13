@@ -4,7 +4,12 @@ categories: [Novel,Fiction]
 tags: [comedy,fiction,swedish]
 ---
 
-<style type="text/css"> @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } p { font-family: Roya; direction: rtl; font-size:24px; } </style> 
+<style type="text/css"> 
+@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
+p { font-family: Roya; direction: rtl; font-size:24px; } 
+ul {direction:rtl;}
+h2 {direction:rtl;}
+</style>  
 
 ## صد سال تنهایی از گابریل گارسیا مارکز
 خوزه آرکادیو بوندیا Jose Arcadio Buendia

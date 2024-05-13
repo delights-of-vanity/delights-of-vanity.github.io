@@ -4,7 +4,13 @@ categories: [Novel,Science Fiction]
 tags: [novel,italy,science fiction]
 ---
 
-<style type="text/css"> @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } p { font-family: Roya; direction: rtl; font-size:24px; } </style> 
+<style type="text/css"> 
+@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
+p { font-family: Roya; direction: rtl; font-size:24px; } 
+ul {direction:rtl;}
+h2 {direction:rtl;}
+</style> 
+
 
 ## بارون درخت نشین از ایتالو کالوینو
 

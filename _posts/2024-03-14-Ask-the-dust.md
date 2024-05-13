@@ -4,7 +4,13 @@ categories: [Novel,Fiction]
 tags: [united states,novel,fiction,los angeles]
 ---
 
-<style type="text/css"> @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } p { font-family: Roya; direction: rtl; font-size:24px; } </style> 
+<style type="text/css"> 
+@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
+p { font-family: Roya; direction: rtl; font-size:24px; } 
+ul {direction:rtl;}
+h2 {direction:rtl;}
+</style> 
+
 
 ## از غبار بپرس از جان فانته
 
