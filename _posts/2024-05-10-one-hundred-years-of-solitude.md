@@ -1,7 +1,7 @@
 ---
 title: صد سال تنهایی
 categories: [Novel,Fiction]
-tags: [fiction,columnia,magic_realism]
+tags: [comedy,fiction,swedish,book club,columbia,magic realism]
 ---
 
 <style type="text/css"> 

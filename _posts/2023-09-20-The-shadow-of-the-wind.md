@@ -1,7 +1,7 @@
 ---
 title: سایه باد
 categories: [Novel,Fiction]
-tags: [spain,barcelona,novel,fiction,classics]
+tags: [spain,barcelona,novel,fiction,classics,book club]
 ---
 
 <style type="text/css"> 
