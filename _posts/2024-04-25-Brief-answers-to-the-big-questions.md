@@ -1,7 +1,7 @@
 ---
 title: پاسخ‌های کوتاه به پرسش‌های بزرگ
 categories: [Novel,Nonfiction]
-tags: [biography,science,existence]
+tags: [biography,science,existence,united states]
 ---
 
 <style type="text/css"> 

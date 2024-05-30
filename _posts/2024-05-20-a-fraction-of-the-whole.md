@@ -1,7 +1,7 @@
 ---
 title: جز از کل
 categories: [Novel,Fiction]
-tags: [comedy,fiction,australian]
+tags: [comedy,fiction,australia]
 ---
 
 <style type="text/css"> 

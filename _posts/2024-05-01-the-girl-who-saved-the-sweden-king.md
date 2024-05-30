@@ -1,7 +1,7 @@
 ---
 title: دختری که پادشاه سوئد را نجات داد
 categories: [Novel,Fiction]
-tags: [comedy,fiction,swedish]
+tags: [comedy,fiction,sweden]
 ---
 
 <style type="text/css"> 
