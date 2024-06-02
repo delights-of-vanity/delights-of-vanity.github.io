@@ -1,5 +1,5 @@
 ---
-title: شیما
+title: پریشانی سفید
 categories: [Short Story,Self-written]
 tags: [mystories,fiction]
 ---
