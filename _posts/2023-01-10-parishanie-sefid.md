@@ -10,7 +10,7 @@ tags: [mystories,fiction]
     font-family: Roya; direction: rtl;
 }
 
-.px-1.p {
+.px-1 p {
     font-size:1.5em;
 }
 </style> 
