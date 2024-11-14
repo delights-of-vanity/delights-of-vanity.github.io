@@ -1,7 +1,7 @@
 ---
 title: Writing Stories (from Soroush Class)
 categories: [Educational,Story-Writing]
-tags: [mystories,fiction]
+tags: [soroush course,storytelling,characters]
 ---
 
 1. Character can be round or flat
