@@ -4,7 +4,6 @@ categories: [Short Story,Translation]
 tags: [translation,fiction]
 ---
 
-
 <style type="text/css"> 
 @font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
 .px-1 {
@@ -15,6 +14,13 @@ tags: [translation,fiction]
     font-size:1.5em;
 }
 </style> 
+
+
+| نام اثر | بوسه |
+| نویسنده | آنجلا کارتر |
+| سال چاپ | ۱۹۸۵ |
+| کشور | انگلیس  |
+| ژانر | داستان کوتاه  |
 
 
 
