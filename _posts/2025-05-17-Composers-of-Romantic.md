@@ -8,7 +8,7 @@ Original Name: [Komoponistinnen der Romantik](https://www.johanneskirche.org/b/a
 Solist: Jakob Breitling
 Dirigent: Federico Ferrari
 
-![Composers of Romantic](composers_of_romantic.png)
+![Composers of Romantic](composers_of_romantic.jpg)
 
 1. Ethel Mary Smyth: Overture of the opera "Wreckers"
 2. Alice Mary Smith: Andante for Clarinet and Orchestra
