@@ -4,9 +4,9 @@ categories: [Music,Concert]
 tags: [classic music,schumann,beach]
 ---
 
-Original Name: [Komoponistinnen der Romantik](https://www.johanneskirche.org/b/anfrage-heinrich-heine-symphoniker-e-v-32928283)
-Solist: Jakob Breitling
-Dirigent: Federico Ferrari
+- Original Name: [Komoponistinnen der Romantik](https://www.johanneskirche.org/b/- anfrage-heinrich-heine-symphoniker-e-v-32928283)
+- Solist: Jakob Breitling
+- Dirigent: Federico Ferrari
 
 ![Composers of Romantic](composers_of_romantic.jpg)
 
