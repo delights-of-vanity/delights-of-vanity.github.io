@@ -10,8 +10,8 @@ tags: [classic music,beethoven,Kammerakademie Potsdam]
 
 ![Beethoven: Sinfonie Nr. 5](beethoven_5_symphony_potsdam_orchestra.png)
 
-1. Felix Mendelssohn: Das Märchen von der schönen Melusine op. 32
-2. Giovanni Battista Viotti: Violinkonzert Nr. 22 a-Moll
-3. Ludwig van Beethoven: Sinfonie Nr. 5 c-Moll op. 67
+1. Felix Mendelssohn: Das Märchen von der schönen Melusine op. 32 (8/10)
+2. Giovanni Battista Viotti: Violinkonzert Nr. 22 a-Moll (7/10)
+3. Ludwig van Beethoven: Sinfonie Nr. 5 c-Moll op. 67 (10/10)
 
 [Another Link](https://www.tonhalle.de/veranstaltung/meisterkonzerte/14399-kammerakademie-potsdam)
