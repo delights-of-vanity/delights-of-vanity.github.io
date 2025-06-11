@@ -1,5 +1,5 @@
 ---
-title: Anne-Sophie Mutter: Liebeserklärungen by Berliner Barock Solisten
+title: Anne-Sophie Mutter, Liebeserklaerungen by Berliner Barock Solisten
 categories: [Music,Concert]
 tags: [classic music,Wolfgang Amadeus Mozart,Aftab Darvishi,Berliner Barock Solisten]
 ---
