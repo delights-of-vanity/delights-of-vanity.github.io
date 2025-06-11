@@ -12,3 +12,7 @@ tags: [classic music,schoenberg,schostakovich,Gürzenich-Orchester Köln]
 
 1. Arnold Schönberg: Ein Überlebender aus Warschau op. 46 für Erzähler, Männerchor und Orchester
 2. Dmitrij Schostakowitsch: Sinfonie Nr. 5 d-Moll op. 47
+    - Moderato
+    - Allegretto
+    - Largo
+    - Allegro non troppo
