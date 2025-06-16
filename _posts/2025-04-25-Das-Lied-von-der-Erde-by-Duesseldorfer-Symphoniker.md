@@ -1,6 +1,6 @@
 ---
 title: Das Lied von der Erde played by Düsseldorfer Symphoniker
-categories: [Music,Concert]
+categories: [Classical Music,Concert]
 tags: [classical music,schumann,beach]
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Menschenrechtskonzert by Düsseldorfer Symphoniker
-categories: [Music,Concert]
+categories: [Classical Music,Concert]
 tags: [classic music,brahms,Düsseldorfer Symphoniker]
 ---
 
