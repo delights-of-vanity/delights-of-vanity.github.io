@@ -1,7 +1,7 @@
 ---
 title: Das Lied von der Erde played by Düsseldorfer Symphoniker
 categories: [Music,Concert]
-tags: [classic music,schumann,beach]
+tags: [classical music,schumann,beach]
 ---
 
 - Original Name: [Das Lied von der Erde](https://www.tonhalle.de/veranstaltung/sternzeichen/14266-das-lied-von-der-erde)

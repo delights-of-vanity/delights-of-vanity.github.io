@@ -1,7 +1,7 @@
 ---
 title: Über Leben – Sonderkonzert by Gürzenich-Orchester Köln
-categories: [Music,Concert]
-tags: [classic music,schoenberg,schostakovich,Gürzenich-Orchester Köln]
+categories: [Classical Music,Concert]
+tags: [classical music,schoenberg,schostakovich,Gürzenich-Orchester Köln]
 ---
 
 - Original Name: [Über Leben – Sonderkonzert](https://www.koelner-philharmonie.de/de/programm/uber-leben-sonderkonzert/4262)

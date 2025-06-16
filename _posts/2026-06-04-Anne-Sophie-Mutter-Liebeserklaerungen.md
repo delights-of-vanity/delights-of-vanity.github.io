@@ -1,7 +1,7 @@
 ---
 title: Anne-Sophie Mutter, Liebeserklaerungen by Berliner Barock Solisten
-categories: [Music,Concert]
-tags: [classic music,Wolfgang Amadeus Mozart,Aftab Darvishi,Berliner Barock Solisten]
+categories: [Classical Music,Concert]
+tags: [classical music,Wolfgang Amadeus Mozart,Aftab Darvishi,Berliner Barock Solisten]
 ---
 
 - Original Name: [Anne-Sophie Mutter: Liebeserklärungen](https://www.heinersdorff-konzerte.de/de/konzerte/anne-sophie-mutter/1422)

@@ -1,7 +1,7 @@
 ---
 title: Brahms Violinkonzert by Düsseldorfer Symphoniker
-categories: [Music,Concert]
-tags: [classic music,Johannes Brahms,Richard Strauss,Düsseldorfer Symphoniker]
+categories: [Classical Music,Concert]
+tags: [classical music,Johannes Brahms,Richard Strauss,Düsseldorfer Symphoniker]
 ---
 
 - Original Name: [Brahms Violinkonzert](https://www.tonhalle.de/veranstaltung/sternzeichen/14272-brahms-violinkonzert)

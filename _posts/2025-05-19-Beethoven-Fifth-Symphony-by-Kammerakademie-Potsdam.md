@@ -1,7 +1,7 @@
 ---
 title: Beethoven fifth Symphony played by Kammerakademie Potsdam
-categories: [Music,Concert]
-tags: [classic music,beethoven,Kammerakademie Potsdam]
+categories: [Classical Music,Concert]
+tags: [classical music,beethoven,Kammerakademie Potsdam]
 ---
 
 - Original Name: [Beethoven: Sinfonie Nr. 5](https://www.heinersdorff-konzerte.de/de/konzerte/beethoven-sinfonie-nr-5/1264)

@@ -1,7 +1,7 @@
 ---
 title: Composers of Romantic played by Heinrich-Heine-Symphoniker
-categories: [Music,Concert]
-tags: [classic music,schumann,beach]
+categories: [Classical Music,Concert]
+tags: [classical music,schumann,beach]
 ---
 
 - Original Name: [Komoponistinnen der Romantik](https://www.johanneskirche.org/b/- anfrage-heinrich-heine-symphoniker-e-v-32928283)

@@ -1,7 +1,7 @@
 ---
 title: Daphnis und Chloé by Düsseldorfer Symphoniker
-categories: [Music,Concert]
-tags: [classic music,Johannes Brahms,Düsseldorfer Symphoniker]
+categories: [Classical Music,Concert]
+tags: [classical music,Johannes Brahms,Düsseldorfer Symphoniker]
 ---
 
 - Original Name: [Daphnis und Chloé](https://www.tonhalle.de/veranstaltung/sternzeichen/14268-daphnis-und-chloe)

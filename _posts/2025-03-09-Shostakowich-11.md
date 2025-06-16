@@ -1,7 +1,7 @@
 ---
 title: Shostakowich 11 by Düsseldorfer Symphoniker
-categories: [Music,Concert]
-tags: [classic music,shostakowich,beethoven,Düsseldorfer Symphoniker]
+categories: [Classical Music,Concert]
+tags: [classical music,shostakowich,beethoven,Düsseldorfer Symphoniker]
 ---
 
 - Original Name: [Shostakowich 11](https://www.tonhalle.de/veranstaltung/sternzeichen/14260-schostakowitsch-11)

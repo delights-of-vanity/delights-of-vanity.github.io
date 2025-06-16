@@ -1,7 +1,7 @@
 ---
 title: Prokofjew by Düsseldorfer Symphoniker
-categories: [Music,Concert]
-tags: [classic music,zemlinsky,mozart,prokofiew,Düsseldorfer Symphoniker]
+categories: [Classical Music,Concert]
+tags: [classical music,zemlinsky,mozart,prokofiew,Düsseldorfer Symphoniker]
 ---
 
 - Original Name: [Prokofjew](https://www.tonhalle.de/veranstaltung/sternzeichen/14256-prokofjew-6)

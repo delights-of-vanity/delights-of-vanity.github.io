@@ -1,7 +1,7 @@
 ---
 title: Baroque Dances
 categories: [Classical Music,Music History]
-tags: [baroque,dances,musical forms]
+tags: [baroque,dances,musical forms.classical music]
 ---
 
 - 4/4 Allemande
