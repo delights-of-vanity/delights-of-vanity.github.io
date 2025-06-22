@@ -4,7 +4,7 @@ categories: [Classical Music,Concert]
 tags: [classical music,mahler,Düsseldorfer Symphoniker]
 ---
 
-- Original Name: [Gustav Mahler: Sinfonie Nr. 6 a- moll](https://www.tonhalle.de/veranstaltung/sternzeichen/14262-mahler-9)
+- Original Name: [Gustav Mahler: Sinfonie Nr. 6 a- moll](https://www.concerti.de/termine/mahler-sinfonie-nr-6-a-moll-staatstheater-darmstadt-423673/)
 - Solitst: -
 - Conductor: Daniel Cohen
 
