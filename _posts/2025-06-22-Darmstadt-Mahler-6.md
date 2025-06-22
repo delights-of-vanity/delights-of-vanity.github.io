@@ -10,8 +10,12 @@ tags: [classical music,mahler,Düsseldorfer Symphoniker]
 
 ![Gustav Mahler: Sinfonie Nr. 6 a- moll](Screenshot 2025-06-22 at 15.11.11.png)
 
-1. Gustav Mahler: Symphonie Nr. 6
- - Allegro energico, ma non troppo
- - Scherzo. Wuchtig
- - Andante moderato
- - Finale
+Gustav Mahler: Symphonie Nr. 6
+
+| Movement | Title                          | Key       | Form                           |
+|----------|--------------------------------|-----------|--------------------------------|
+| I        | Allegro energico, ma non troppo| A minor   | Sonata form                    |
+| II       | Scherzo: Wuchtig               | A minor   | Ternary (Scherzo–Trio–Scherzo) |
+| III      | Andante moderato               | E♭ major  | Ternary or modified Rondo      |
+| IV       | Finale: Allegro moderato       | A minor   | Complex modified Sonata form   |
+
