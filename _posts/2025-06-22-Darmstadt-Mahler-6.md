@@ -8,7 +8,7 @@ tags: [classical music,mahler,Düsseldorfer Symphoniker]
 - Solitst: -
 - Conductor: Daniel Cohen
 
-![Gustav Mahler: Sinfonie Nr. 6 a- moll](mahler9.jpg)
+![Gustav Mahler: Sinfonie Nr. 6 a- moll](mahler6.jpg)
 
 1. Gustav Mahler: Symphonie Nr. 6
  - Allegro energico, ma non troppo
