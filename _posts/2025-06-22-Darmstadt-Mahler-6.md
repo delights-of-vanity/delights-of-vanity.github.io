@@ -1,5 +1,5 @@
 ---
-title: Gustav Mahler's Sinfonie Nr. 6 a- moll by STAATSORCHESTER DARMSTADT
+title: Gustav Mahler's Sinfonie Nr. 6 a- moll by Staatsorchester Darmstadt
 categories: [Classical Music,Concert]
 tags: [classical music,mahler,Düsseldorfer Symphoniker]
 ---
