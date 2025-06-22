@@ -6,8 +6,7 @@ tags: [classical music,Schumann,Schubert,Jazz]
 
 - Original Name: [Symphoniker im Palais](https://www.tonhalle.de/veranstaltung/schumannfest/16797-symphoniker-im-palais)
 
-![Symphoniker im Palais](symphoniker-in-palais
-.png)
+![Symphoniker im Palais](symphoniker-in-palais.png)
 
 Ludwig van Beethoven
 Streichquartett B-Dur op. 18/6
