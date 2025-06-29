@@ -17,7 +17,7 @@ tags: [classical music,Johannes Brahms,Richard Strauss,Düsseldorfer Symphoniker
 
 2. Richard Strauss: Also sprach Zarathustra. Tondichtung frei nach Friedrich Nietzsche op. 30
   - "Sonnenaufgang" (Sunrise)
-  - "Von den Hinterweltlern" (Of the Backworldsmen)[4]
+  - "Von den Hinterweltlern" (Of the Backworldsmen)
   - "Von der großen Sehnsucht" (Of the Great Longing)
   - "Von den Freuden und Leidenschaften" (Of Joys and Passions)
   - "Das Grablied" (The Song of the Grave)
