@@ -4,7 +4,7 @@ categories: [Classical Music,Concert]
 tags: [classical music,Johannes Brahms,Antonin Dvorak,Münchener Philharmoniker]
 ---
 
-- Original Name: [Brahms Dvorak](https://www.tonhalle.de/veranstaltung/sternzeichen/14272-brahms-violinkonzert)
+- Original Name: [Brahms Dvorak]([https://www.tonhalle.de/veranstaltung/sternzeichen/14272-brahms-violinkonzert](https://www.mphil.de/konzerte-und-karten/kalender/konzerte/brahms-dvorak-2025-07-02-4602))
 - Solitst: Hilary Hahn
 - Conductor: Andrés Orozco-Estrada
 
