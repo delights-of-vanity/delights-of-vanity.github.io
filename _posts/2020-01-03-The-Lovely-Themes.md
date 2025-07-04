@@ -1,5 +1,5 @@
 ---
-title: The Lovely Themes: Part 1
+title: The Lovely Themes 1
 categories: [Classical Music,Themes]
 tags: [classical music,Dmitri Shostakovich,Piano Quintet,themes]
 ---
