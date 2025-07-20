@@ -1,0 +1,15 @@
+---
+title: Mozart-Prokofiew-Bartok by Royal Concertgebouw Orchestra
+categories: [Classical Music,Concert]
+tags: [classical music,bartok,mozart,prokofiew,Concertgebouworkest]
+---
+
+- Original Name: [Prokofjew](https://www.tonhalle.de/veranstaltung/sternzeichen/14256-prokofjew-6)
+- Solitst: Janine Jansen
+- Conductor: Klaus Mäkelä
+
+![Prokofjew](prokofiew.png)
+
+1. Wolfgang Amadeus Mozart: Sinfonie D-Dur KV 297 (300a) (»Pariser Sinfonie«)
+2. Sergej Prokofjew: Konzert für Violine und Orchester Nr. 1 D-Dur op. 19
+3. Béla Bartók: Konzert für Orchester Sz 116
