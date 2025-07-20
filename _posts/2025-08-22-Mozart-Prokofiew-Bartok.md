@@ -4,7 +4,7 @@ categories: [Classical Music,Concert]
 tags: [classical music,bartok,mozart,prokofiew,Concertgebouworkest]
 ---
 
-- Original Name: [Prokofjew](https://www.tonhalle.de/veranstaltung/sternzeichen/14256-prokofjew-6)
+- Original Name: [Prokofjew](https://www.koelner-philharmonie.de/de/programm/janine-jansen-concertgebouworkest-klaus-makela/4599)
 - Solitst: Janine Jansen
 - Conductor: Klaus Mäkelä
 
