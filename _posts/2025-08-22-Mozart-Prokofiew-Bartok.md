@@ -8,7 +8,7 @@ tags: [classical music,bartok,mozart,prokofiew,Concertgebouworkest]
 - Solitst: Janine Jansen
 - Conductor: Klaus Mäkelä
 
-![Prokofjew](prokofiew.png)
+![Prokofjew](janine-jansen-klaus.png)
 
 1. Wolfgang Amadeus Mozart: Sinfonie D-Dur KV 297 (300a) (»Pariser Sinfonie«)
 2. Sergej Prokofjew: Konzert für Violine und Orchester Nr. 1 D-Dur op. 19
