@@ -6,10 +6,10 @@ tags: [classical music,bartok,mozart,prokofiew,Concertgebouworkest]
 
 - Original Name: [Prokofjew](https://www.koelner-philharmonie.de/de/programm/janine-jansen-concertgebouworkest-klaus-makela/4599)
 - Solitst: Janine Jansen
-- Conductor: Klaus Mäkelä
+- Conductor: Klaus Maekelae
 
 ![Prokofjew](janine-jansen-klaus.png)
 
 1. Wolfgang Amadeus Mozart: Sinfonie D-Dur KV 297 (300a) (»Pariser Sinfonie«)
 2. Sergej Prokofjew: Konzert für Violine und Orchester Nr. 1 D-Dur op. 19
-3. Béla Bartók: Konzert für Orchester Sz 116
+3. Bela Bartok: Konzert für Orchester Sz 116
