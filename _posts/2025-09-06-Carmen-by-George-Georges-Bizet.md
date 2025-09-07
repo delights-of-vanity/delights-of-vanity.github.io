@@ -12,6 +12,7 @@ tags: [classical music,Carmen,Georges Bizet,Düsseldorfer Symphoniker]
 Die Liebe ist ein wilder Vogel, den kein Mensch jemals zähmen kann.
 Opéra comique in vier Akten
 
+
 In Kooperation mit der Opéra national de Lorraine
 In französischer und deutscher Sprache mit deutschen Übertiteln
 ca. 3 Stunden, eine Pause
