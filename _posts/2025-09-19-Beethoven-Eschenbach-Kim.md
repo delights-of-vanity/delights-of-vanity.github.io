@@ -11,5 +11,4 @@ tags: [classical music,Ludwing van Beethoven,Düsseldorfer Symphoniker]
 ![Beethoven Klavierkonzert](Beethoven-Klavierkonzert.png)
 
 Ludwig van Beethoven: Konzert für Klavier und Orchester Nr. 5 Es-Dur op. 73
-Paul Hindemith: Symphonie "Die Harmonie der Welt"
-
+Johannes Brahms: Symphonie Nr. 1 c-Moll op. 68
