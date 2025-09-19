@@ -1,5 +1,5 @@
 ---
-title: Beethove Klavierkonzert by Düsseldorfer Symphoniker
+title: Beethoven Klavierkonzert by Düsseldorfer Symphoniker
 categories: [Classical Music,Concert]
 tags: [classical music,Ludwing van Beethoven,Düsseldorfer Symphoniker]
 ---
