@@ -1,7 +1,7 @@
 ---
 title: Der Besuch der alten Dame by Düsseldorfer Theater
 categories: [Art,Theater]
-tags: [classical music,Carmen,Georges Bizet,Düsseldorfer Symphoniker]
+tags: [theater,Carmen]
 ---
 
 - Original Name: [Der Besuch der alten Dame](https://www.dhaus.de/programm/spielplan/der-besuch-der-alten-dame/1728/)
