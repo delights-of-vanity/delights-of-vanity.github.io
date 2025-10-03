@@ -1,6 +1,6 @@
 ---
 title: Virtuosen-Varieté
-categories: [Classical Music,Concert]
+categories: [Classical Music,Comedy Concert]
 tags: [classical music,tonhalle,Comedy]
 ---
 
