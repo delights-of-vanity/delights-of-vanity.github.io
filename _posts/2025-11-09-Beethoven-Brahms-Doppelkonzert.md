@@ -5,7 +5,7 @@ tags: [classical music,Johannes Brahms,Ludwig van Beethoven,Sinfonieorchester Ru
 ---
 
 - Original Name: [Brahms Beethovens](https://www.koelner-philharmonie.de/de/programm/beethovens-5-sinfonie-brahms-doppelkonzert/4758)
-- Solisten: Joana Cristina Goicea Violine, Benedict Kloeckner Violoncello 
+- Solisten: Joana Cristina Goicea (Violine), Benedict Kloeckner (Violoncello)
 - Conductor: Gabriel Bebeşelea
 
 ![Brahms Dvorak](brahms-beethove-doppelkonzert.png)
