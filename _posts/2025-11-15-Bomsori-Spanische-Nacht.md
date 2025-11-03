@@ -4,7 +4,7 @@ categories: [Classical Music,Concert]
 tags: [classical music,Johannes Brahms,Richard Strauss,Düsseldorfer Symphoniker]
 ---
 
-- Original Name: [Brahms Violinkonzert](https://www.tonhalle.de/veranstaltung/sternzeichen/14272-brahms-violinkonzert)
+- Original Name: [Bomsori - Spanische Nacht]([https://www.tonhalle.de/veranstaltung/sternzeichen/14272-brahms-violinkonzert](https://www.tonhalle.de/veranstaltung/faszination-klassik/17577-bomsori)
 - Solitst: Bomsori
 - Conductor: Ludovic Morlot
 
