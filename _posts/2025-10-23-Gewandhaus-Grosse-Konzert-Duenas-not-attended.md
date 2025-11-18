@@ -1,7 +1,7 @@
 ---
 title: Korngold, Strauss by Gewandhausorchester
 categories: [Classical Music,Concert]
-tags: [classical music,zemlinsky,mozart,prokofiew,Düsseldorfer Symphoniker]
+tags: [classical music,zemlinsky,mozart,prokofiew,Düsseldorfer Symphoniker, Not Attended]
 ---
 
 - Original Name: [Gewandhausorchester](https://www.gewandhausorchester.de/veranstaltung/grosses-concert-9211/)
