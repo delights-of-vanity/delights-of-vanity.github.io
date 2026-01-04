@@ -4,12 +4,12 @@ categories: [Classical Music,Concert]
 tags: [classical music,Johannes Brahms,Richard Strauss,Düsseldorfer Symphoniker]
 ---
 
-- Original Name: [Skrjabin: Le Poème de l’extase](www.tonhalle.de/veranstaltung/sternzeichen/17299-skrjabin-le-poeme-de-lextase)
+- Original Name: [Skrjabin: Le Poème de lextase](https://www.tonhalle.de/veranstaltung/sternzeichen/17299-skrjabin-le-poeme-de-lextase)
 - Skrjabin Le Poème de l’extase 
 - Conductor: Tabita Berglund
 - Klavier Solist: Roman Borisov
 
-![Skrjabin: Le Poème de l’extase](symphony2025.png)
+![Skrjabin: Le Poème de lextase](symphony2025.png)
 
 - Sergej Prokofjew: Symphonie Nr. 1 D-Dur op. 25 "Symphonie classique"
 - Peter I. Tschaikowsky: Konzert für Klavier und Orchester Nr. 1 b-Moll op. 23
