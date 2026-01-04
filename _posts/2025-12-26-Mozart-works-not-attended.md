@@ -1,7 +1,7 @@
 ---
 title: Mozart 40 by Fabian Müller & The Trinity Sinfonia
 categories: [Classical Music,Concert]
-tags: [classical music,Mozart,Fabian Müller,The Trinity Sinfonia]
+tags: [classical music,Mozart,Fabian Müller,The Trinity Sinfonia,Not Attended]
 ---
 
 - Original Name: [Mozart 40](https://www.koelner-philharmonie.de/en/programm/lebensklange-schumanns-zweite/4865)
