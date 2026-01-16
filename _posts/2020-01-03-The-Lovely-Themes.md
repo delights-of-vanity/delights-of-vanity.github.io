@@ -20,3 +20,6 @@ tags: [classical music,Dmitri Shostakovich,Piano Quintet,themes]
 
 [Music](https://www.youtube.com/watch?v=lYAsSceNGrE)
 [Violin Arrangement](https://www.youtube.com/watch?v=vYWKFfwPgYc&list=RDvYWKFfwPgYc&index=1)
+
+# Dvorak Symphony 7 - 3rd Movement
+[Youtube Video](https://www.youtube.com/watch?v=bkJxMs5104Q&t=1374s)
