@@ -27,5 +27,5 @@ tags: [classical music,Dmitri Shostakovich,Piano Quintet,themes]
 # Prokofiev - Symphony 1
 [Youtube Video](https://www.youtube.com/watch?v=uOerZ-ewUcA)
 
-# Anton Bruckner’s “Symphony No. 0” (often called Die Nullte)
+# Anton Bruckner - Symphony No. 0
 [Youtube Video](https://www.youtube.com/watch?v=Fj_VwS7jGz4&t=981s)
