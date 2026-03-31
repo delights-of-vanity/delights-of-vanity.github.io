@@ -4,19 +4,8 @@ categories: [Short Story,Self-written]
 tags: [mystories,fiction]
 ---
 
-<style type="text/css"> 
-@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-.px-1 {
-    font-family: Roya; direction: rtl;
-}
-
-.px-1 p {
-    font-size:1.5em;
-}
-</style> 
 
 
-<!-- ## پریشانی سفید -->
 
 همه جا سفید بود. تمام شکل ها با سفید رنگ شده بود. رد پاها سعی می کرد حضور خودش رو داد بزند، اما برف تمام اون سنگینی ها رو تحمل می کرد و پرشون می کرد.
 

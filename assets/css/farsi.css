@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Roya';
+  src: url('/assets/fonts/roya.ttf');
+}
+
+.farsi-text {
+  font-family: Roya, sans-serif;
+  direction: rtl;
+  text-align: right;
+}
+
+.farsi-text p {
+  font-size: 1.5em;
+}

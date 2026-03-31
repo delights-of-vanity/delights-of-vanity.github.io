@@ -4,18 +4,7 @@ categories: [Short Story,Self-written]
 tags: [mystories,fiction]
 ---
 
-<style type="text/css"> 
-@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-.px-1 {
-    font-family: Roya; direction: rtl;
-}
 
-.px-1 p {
-    font-size:1.5em;
-}
-</style> 
-
-<!-- ## آتش درونم از زبان خانه -->
 
 ای سختی دیوار و درم بر آنم که بسوزم
 

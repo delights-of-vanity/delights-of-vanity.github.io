@@ -4,16 +4,6 @@ categories: [Short Story,Self-written]
 tags: [mystories,poem]
 ---
 
-<style type="text/css"> 
-@font-face { font-family: 'Roya'; src: url('../../roya.ttf'); } 
-.px-1 {
-    font-family: Roya; direction: rtl;
-}
-
-.px-1 p {
-    font-size:1.5em;
-}
-</style> 
 
 
 انکار وجودی اش مرا به بازی می گرفت
