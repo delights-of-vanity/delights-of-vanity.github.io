@@ -4,7 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-<div class="farsi-text">
+<div class="farsi-text" markdown="1">
 
 داستان‌هایی از قدیم به استایل جدید که برای خودم می‌تونه اتفاق افتاده باشه یا نه.
 
