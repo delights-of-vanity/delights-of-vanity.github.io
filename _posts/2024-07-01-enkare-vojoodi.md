@@ -4,8 +4,7 @@ categories: [Short Story,Self-written]
 tags: [mystories,poem]
 ---
 
-
-
+<div class="farsi-text" markdown="1">
 انکار وجودی اش مرا به بازی می گرفت
 هربار که به او می اندیشیدم
 
@@ -23,6 +22,4 @@ tags: [mystories,poem]
 
 ٬کاش می شد که برای من باشی٬
 ٬کاش می شد که برایت باشم٬
-
-
-
+</div>

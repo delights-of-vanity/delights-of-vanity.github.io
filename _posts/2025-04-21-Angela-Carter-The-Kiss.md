@@ -4,8 +4,7 @@ categories: [Short Story,Translation]
 tags: [translation,fiction]
 ---
 
-
-
+<div class="farsi-text" markdown="1">
 | نام اثر | بوسه |
 | نویسنده | آنجلا کارتر |
 | سال چاپ | ۱۹۸۵ |
@@ -54,3 +53,4 @@ tags: [translation,fiction]
 شاید تربچه‌های قرمز و سفید از بازار می‌خرید برای شام شوهرش.  
 شاید پس از فرار از او، در بازار امرار معاش می‌کرد.  
 شاید آن‌جا گل‌کالا می‌فروخت.
+</div>

@@ -4,8 +4,7 @@ categories: [Short Story,Self-written]
 tags: [mystories,fiction]
 ---
 
-
-
+<div class="farsi-text" markdown="1">
 ای سختی دیوار و درم بر آنم که بسوزم
 
 ای تلخی بیمارگونه که نشستست در وجودم
@@ -88,4 +87,4 @@ tags: [mystories,fiction]
 به برف ها و قطره ها و من بدون سقف
 
 خاموش کرد درونم آتشم
-
+</div>
