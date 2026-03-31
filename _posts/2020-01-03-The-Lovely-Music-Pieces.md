@@ -23,3 +23,6 @@ tags: [classical music,Dmitri Shostakovich,Piano Quintet,themes]
 
 # Dvorak Symphony 7 - 3rd Movement
 [Youtube Video](https://www.youtube.com/watch?v=bkJxMs5104Q&t=1374s)
+
+# Prokofiev - Symphony 1
+[Youtube Video](https://www.youtube.com/watch?v=uOerZ-ewUcA)
