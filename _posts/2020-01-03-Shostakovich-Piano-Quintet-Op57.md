@@ -16,8 +16,8 @@ A piece I keep coming back to — especially the Scherzo with its Spanish-flavor
 
 ## With Score
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/UEPiqK-jqTc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UEPiqK-jqTc" frameborder="0" allowfullscreen></iframe>
 
 ## Janine Jansen and Friends (from Scherzo)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/OgeQG-PvDzE?start=976" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OgeQG-PvDzE?start=976" frameborder="0" allowfullscreen></iframe>

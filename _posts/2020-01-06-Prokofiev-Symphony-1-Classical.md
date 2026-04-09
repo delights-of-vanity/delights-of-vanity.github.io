@@ -6,4 +6,4 @@ tags: [classical music, Sergei Prokofiev, Symphony, themes]
 
 Prokofiev's first symphony — witty, light, and neoclassical in spirit, written in the style of Haydn.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/uOerZ-ewUcA" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uOerZ-ewUcA" frameborder="0" allowfullscreen></iframe>

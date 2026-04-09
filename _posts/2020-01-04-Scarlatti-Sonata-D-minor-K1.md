@@ -8,8 +8,8 @@ One of Scarlatti's earliest and most beloved keyboard sonatas — also beautiful
 
 ## Original (Harpsichord)
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/lYAsSceNGrE" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lYAsSceNGrE" frameborder="0" allowfullscreen></iframe>
 
 ## Violin Arrangement
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/vYWKFfwPgYc" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vYWKFfwPgYc" frameborder="0" allowfullscreen></iframe>
